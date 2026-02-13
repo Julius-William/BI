@@ -25,4 +25,5 @@ The data was stored in a PostgreSQL database to simulate a real-world fintech da
 - **Database:** PostgreSQL  
 - **Query Language:** SQL  
 - **Programming Language:** Python  
-- **Libraries:** pandas, psycopg2, matpl
+- **Libraries:** pandas, psycopg2, matplotlib
+- **Dashboard:** PowerBI
