@@ -1,17 +1,28 @@
 # Transaction Performance & Behavioral Analysis Dashboard
 
-##  Project Overview
-This project analyzes overall transaction performance and behavioral patterns based on demographic and usage factors. 
+## Background
 
-The objective of this analysis is to identify key transaction trends, understand customer behavior across segments, and provide actionable business recommendations to support strategic decision-making.
+With the increasing adoption of digital transactions, the financial technology industry has experienced significant growth over the past few years. The rise of online payments, debit and credit card usage, and digital banking services has transformed how customers interact with financial institutions.
 
-The dashboard was developed using Tableau Public.
+However, as transaction volumes grow, so do operational challenges and potential financial risks. Understanding transaction patterns, customer behavior, payment preferences, and seasonal trends is crucial for financial institutions to make informed strategic decisions.
+
+Through data analysis and visualization, businesses can identify performance trends, behavioral differences across segments, and potential opportunities to optimize revenue and improve operational efficiency.
 
 ---
 
-##  Key Analysis Areas
+## Project Objective
 
-The analysis focuses on:
+This project aims to:
+
+- Analyze overall transaction performance
+- Identify seasonal and behavioral spending patterns
+- Understand demographic-based transaction behavior
+- Evaluate payment method and channel preferences
+- Provide data-driven business recommendations
+
+---
+
+## Key Analysis Areas
 
 - Monthly transaction trends and seasonality
 - Transaction distribution by weekday
@@ -22,6 +33,23 @@ The analysis focuses on:
 
 ---
 
+## Libraries & Tech Stack
+
+### Programming & Data Processing
+- Python
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Tableau Public
+
+### Development Environment
+- Jupyter Notebook
+- GitHub
+
+---
 ##  Key Insights
 
 - Transaction value shows a strong upward trend toward the end of the year, with September recording the highest value.
@@ -42,3 +70,10 @@ Based on the analysis:
 - Encourage Credit card utilization to increase transaction value per customer.
 - Develop age-segmented marketing strategies.
 - Accelerate digital adoption initiativ
+
+---
+
+##  Dashboard
+
+You can view the interactive dashboard here:  
+https://public.tableau.com/app/profile/julius.william1751/viz/Transaction_Analysis_17713412764140/Dashboardpg_1?publish=yes
