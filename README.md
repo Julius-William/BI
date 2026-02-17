@@ -89,3 +89,11 @@ Based on the analysis:
 
 You can view the interactive dashboard here:  
 https://public.tableau.com/app/profile/julius.william1751/viz/Transaction_Analysis_17713412764140/Dashboardpg_1?publish=yes
+
+---
+
+##  Author
+
+Julius William  
+- LinkedIn: https://www.linkedin.com/in/your-link
+- Email: your.email@email.com
